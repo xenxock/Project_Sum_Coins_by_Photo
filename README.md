@@ -23,6 +23,5 @@
 
 ## Скачайте репозиторий или клонируйте:
 ```bash
-git clone https://github.com/your-username/coin-counter.git
-cd coin-counter
+git https://github.com/xenxock/Project_Sum_Coins_by_Photo.git
 ```
